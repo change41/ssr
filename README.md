@@ -1,0 +1,2 @@
+# ssr
+shadowsocks-r
